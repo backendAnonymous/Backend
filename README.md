@@ -102,40 +102,26 @@ code .
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
-### 
-
-- [ ]  001 - 
-- [ ]  002 - 
-- [ ]  003 - 
-- [ ]  004 - 
-- [ ]  005 - 
-
-### 
-
-- [ ]  006 - 
-- [ ]  007 - 
-- [ ]  008 - 
-- [ ]  009 - 
-- [ ]  010 - 
-- [ ]  011 - 
-- [ ]  012 - 
-
-### 
-
-- [ ]  013 - 
-- [ ]  014 - 
-- [ ]  015 - 
-- [ ]  016 - 
-- [ ]  017 - 
-- [ ]  018 - 
-- [ ]  019 - 
-
-### 
-
-- [ ]  020 - 
-- [ ]  021 - 
-- [ ]  022 - 
-
+- [ ]  001 - Whats Git & GitHub & Why U Should Learn Part 1
+- [ ]  002 - Whats Git & GitHub & Why U Should Learn Part 2
+- [ ]  003 - Create Github Repository And Clone It
+- [ ]  004 - Add And Reset And Commit & Explain Progress
+- [ ]  005 - Push Local Changes To Remote Repository
+- [ ]  006 - Pull Changes From Remote Repository
+- [ ]  007 - Everything About Git Configurations
+- [ ]  008 - Generate And Test Github Public Key
+- [ ]  009 - Create Repository From Existing Project
+- [ ]  010 - Learn Pull Request With Real Examples
+- [ ]  011 - Learn Everything About Aliases
+- [ ]  012 - Learn About Branching And Merging
+- [ ]  013 - Mastering Stash Part 1
+- [ ]  014 - Mastering Stash Part 2
+- [ ]  015 - Restore And Clean
+- [ ]  016 - Resetting The Head
+- [ ]  017 - Ignoring Files And Directories
+- [ ]  018 - Tagging And Releasing Part 1
+- [ ]  019 - Tagging And Releasing Part 2
+- [ ]  020 - The End And Advices
 #
 
 # PHP Content
@@ -290,74 +276,89 @@ code .
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
-### 
+### Explain MySQL
 
-- [ ]  001 - 
-- [ ]  002 - 
-- [ ]  003 - 
-- [ ]  004 - 
-- [ ]  005 - 
+- [ ]  001 - Intro & Whats MySQL -
+- [ ]  002 - The Needed Tools
+- [ ]  003 - Syntax & Some Info
 
-### 
+### PDO
 
-- [ ]  006 - 
-- [ ]  007 - 
-- [ ]  008 - 
-- [ ]  009 - 
-- [ ]  010 - 
-- [ ]  011 - 
-- [ ]  012 - 
+- [ ]  004 - Connect With PDO + Examples
 
-### 
+### Data Types
 
-- [ ]  013 - 
-- [ ]  014 - 
-- [ ]  015 - 
-- [ ]  016 - 
-- [ ]  017 - 
-- [ ]  018 - 
-- [ ]  019 - 
+- [ ]  005 - Data Type - Numeric
+- [ ]  006 - Data Type - Date & Time
+- [ ]  007 - Data Type - String
 
-### 
+### Database & Tables
 
-- [ ]  020 - 
-- [ ]  021 - 
-- [ ]  022 - 
-- [ ]  023 - 
-- [ ]  024 - 
-- [ ]  025 - 
-- [ ]  026 - 
-- [ ]  027 - 
-- [ ]  028 - 
-- [ ]  029 - 
+- [ ]  008 - Deal With Databases
+- [ ]  009 - Tables - Create, Drop, Show Status
+- [ ]  010 - Tables - Rename, Change Type
+- [ ]  011 - Tables - Alter
+- [ ]  012 - Tables - Advanced
 
-### 
+### Constraint
 
-- [ ]  030 - 
-- [ ]  031 - 
-- [ ]  032 - 
-- [ ]  033 - 
-- [ ]  034 - 
-- [ ]  035 - 
-- [ ]  036 - 
-- [ ]  037 - 
-- [ ]  038 - 
-- [ ]  039 - 
-- [ ]  040 - 
-- [ ]  041 - 
-- [ ]  042 - 
+- [ ]  013 - Constraint - Intro
+- [ ]  014 - Constraint - Not Null, Unique
+- [ ]  015 - Constraint - Primary Key
+- [ ]  016 - Constraint - Foreign Key Intro
+- [ ]  017 - Constraint - Foreign Key Test Relation
+- [ ]  018 - Constraint - Foreign Key Update, Delete
+- [ ]  019 - Constraint - Foreign Key One To One
+- [ ]  020 - Constraint - Foreign Key One To Many
+- [ ]  021 - Constraint - Foreign Key Many To Many
 
-### 
+### String Functions
 
-- [ ]  043 - 
-- [ ]  044 - 
-- [ ]  045 - 
-- [ ]  046 - 
-- [ ]  047 - 
-- [ ]  048 - 
-- [ ]  049 - 
-- [ ]  050 - 
-- [ ]  051 - 
+- [ ]  022 - String Functions - Left, Right, Mid
+- [ ]  023 - String Functions - Length, Char_Length
+- [ ]  024 - String Functions - Upper, Lower
+- [ ]  025 - String Functions - Repeat, Reverse, Replace
+- [ ]  026 - String Functions - Concat, Concat_Ws
+- [ ]  027 - String Functions - Insert
+- [ ]  028 - String Functions - Trim, Rtrim, Ltrim
+- [ ]  029 - String Functions - LPad, RPad
+
+### Numeric Functions
+
+- [ ]  030 - Numeric Functions - Ceil, Floor, Round
+- [ ]  031 - Numeric Functions - Mod, Truncate, Pow
+
+### Date Functions
+
+- [ ]  032 - Date Functions - Curtime, Curdate, Now
+- [ ]  033 - Date Functions - Day, Dayname
+- [ ]  034 - Date Functions - Month, Hour, Minute
+- [ ]  035 - Date Functions - DateDiff + Examples
+- [ ]  036 - Date Functions - Date_Add, Date_Sub, Last_Day
+
+### Comparison Functions
+
+- [ ]  037 - Comparison Functions - Between And Not Between
+- [ ]  038 - Comparison Functions - In, Not In
+- [ ]  039 - Comparison Functions - Like, Not Like
+- [ ]  040 - Comparison Operators
+
+### Operators & Control Flow
+
+- [ ]  041 - Logical Operators - And, Or, Xor, Not
+- [ ]  042 - Control Flow Functions - If
+- [ ]  043 - Control Flow Functions - Case
+- [ ]  044 - Arithmetic Operators
+- [ ]  045 - Information Functions
+
+### Advanced MySql
+
+- [ ]  046 - Group Order And Having
+- [ ]  047 - Simulation Of Join
+- [ ]  048 - Alias In Deep
+- [ ]  049 - Inner Join
+- [ ]  050 - Left And Right Join
+- [ ]  051 - The End And References
 #
 
 # Pure PHP & MySQL Project Content
