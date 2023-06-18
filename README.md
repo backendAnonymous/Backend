@@ -130,7 +130,7 @@ code .
 
 ### Introduction, Syntax And Fundamentals
 
-- [x]  001 - Introduction And Important Information ?
+- [ ]  001 - Introduction And Important Information ?
 - [ ]  002 - What Is New And How To Study The Course ?
 - [ ]  003 - Install PHP And Prepare Environment To Work
 - [ ]  004 - PHP Tags & Instruction Separation
