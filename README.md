@@ -102,26 +102,26 @@ code .
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
-- [ ]  001 - Whats Git & GitHub & Why U Should Learn Part 1
-- [ ]  002 - Whats Git & GitHub & Why U Should Learn Part 2
-- [ ]  003 - Create Github Repository And Clone It
-- [ ]  004 - Add And Reset And Commit & Explain Progress
-- [ ]  005 - Push Local Changes To Remote Repository
-- [ ]  006 - Pull Changes From Remote Repository
-- [ ]  007 - Everything About Git Configurations
-- [ ]  008 - Generate And Test Github Public Key
-- [ ]  009 - Create Repository From Existing Project
-- [ ]  010 - Learn Pull Request With Real Examples
-- [ ]  011 - Learn Everything About Aliases
-- [ ]  012 - Learn About Branching And Merging
-- [ ]  013 - Mastering Stash Part 1
-- [ ]  014 - Mastering Stash Part 2
-- [ ]  015 - Restore And Clean
-- [ ]  016 - Resetting The Head
-- [ ]  017 - Ignoring Files And Directories
-- [ ]  018 - Tagging And Releasing Part 1
-- [ ]  019 - Tagging And Releasing Part 2
-- [ ]  020 - The End And Advices
+- [x]  001 - Whats Git & GitHub & Why U Should Learn Part 1
+- [x]  002 - Whats Git & GitHub & Why U Should Learn Part 2
+- [x]  003 - Create Github Repository And Clone It
+- [x]  004 - Add And Reset And Commit & Explain Progress
+- [x]  005 - Push Local Changes To Remote Repository
+- [x]  006 - Pull Changes From Remote Repository
+- [x]  007 - Everything About Git Configurations
+- [x]  008 - Generate And Test Github Public Key
+- [x]  009 - Create Repository From Existing Project
+- [x]  010 - Learn Pull Request With Real Examples
+- [x]  011 - Learn Everything About Aliases
+- [x]  012 - Learn About Branching And Merging
+- [x]  013 - Mastering Stash Part 1
+- [x]  014 - Mastering Stash Part 2
+- [x]  015 - Restore And Clean
+- [x]  016 - Resetting The Head
+- [x]  017 - Ignoring Files And Directories
+- [x]  018 - Tagging And Releasing Part 1
+- [x]  019 - Tagging And Releasing Part 2
+- [x]  020 - The End And Advices
 #
 
 # PHP Content
