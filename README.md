@@ -100,7 +100,7 @@ code .
 
 # Github Content
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 
 - [x]  001 - Whats Git & GitHub & Why U Should Learn Part 1
 - [x]  002 - Whats Git & GitHub & Why U Should Learn Part 2
